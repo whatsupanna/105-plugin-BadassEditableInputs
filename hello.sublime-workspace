@@ -1,0 +1,1608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"add",
+				"addForm"
+			],
+			[
+				"s",
+				"submitInput"
+			],
+			[
+				"text",
+				"textInput"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ani",
+				"animateScroll"
+			],
+			[
+				"no",
+				"noresults"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"event",
+				"eventPieces"
+			],
+			[
+				"even",
+				"eventPieces"
+			],
+			[
+				"eve",
+				"eventPieces"
+			],
+			[
+				"date",
+				"dateRange"
+			],
+			[
+				"web",
+				"webImage"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"interst"
+			],
+			[
+				"get",
+				"getInfo"
+			],
+			[
+				"ny",
+				"nyApp"
+			],
+			[
+				"set",
+				"setContent"
+			],
+			[
+				"cur",
+				"currenplayer"
+			],
+			[
+				"current",
+				"currentPlayer"
+			],
+			[
+				"tic",
+				"ticTacToeApp"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"tr",
+				"transform-box"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"trasn",
+				"transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"line-",
+				"line-through"
+			],
+			[
+				"he",
+				"headsCount"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"gr",
+				"grilledCheese"
+			],
+			[
+				"mult",
+				"multiply"
+			],
+			[
+				"wh",
+				"whatsForDinner"
+			],
+			[
+				"wah",
+				"whatsForDinner"
+			],
+			[
+				"sing",
+				"singMeASong"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"sea",
+				"seagreen"
+			],
+			[
+				"bordra",
+				"border-top-left-radius"
+			],
+			[
+				"font-e",
+				"font-weight"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"post",
+				"position"
+			],
+			[
+				"ba",
+				"banner2.jpg	w:857 h:248"
+			],
+			[
+				"texttr",
+				"text-transform"
+			],
+			[
+				"ligh",
+				"line-height"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"bordbot",
+				"border-bottom-left-radius"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"border-bot",
+				"border-bottom-right-radius"
+			],
+			[
+				"bra",
+				"border-bottom-left-radius"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"se",
+				"seagreen"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"sub-",
+				"sub-sub-nav"
+			],
+			[
+				"cu",
+				"currentPage"
+			],
+			[
+				"l",
+				"last-child"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fi",
+				"figcaption"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/hyannatesting/index.html",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "git config --global user.name \"whatsupanna\"\ngit config --global user.email \"annacmackenzie89@gmail.com\"\n\ngit config --get user.name\ngit config --get user.email",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix",
+				"name": "git config --global user.name \"whatsupanna\""
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/w2015collab/students/anna.html",
+			"settings":
+			{
+				"buffer_size": 910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Anna-Github-Website/index.html",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter/index.html",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/scripts/jquery.lightBox.js",
+			"settings":
+			{
+				"buffer_size": 1265,
+				"line_ending": "Unix",
+				"name": "jquery.lightBox.js"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix",
+				"name": "main.js"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Projects/104-API(Week5)/scripts.js",
+			"settings":
+			{
+				"buffer_size": 2051,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jquery.editableInputs.js",
+			"settings":
+			{
+				"buffer_size": 2524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/bleh.html",
+			"settings":
+			{
+				"buffer_size": 977,
+				"line_ending": "Unix",
+				"name": "bleh.html"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/Haris Fishbowl/bleh3.html",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 2213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/index.html",
+			"settings":
+			{
+				"buffer_size": 1513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter/scripts/jquery.colourMe.js",
+			"settings":
+			{
+				"buffer_size": 614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Dropbox/cmdline/annagitsit/index.html",
+			"settings":
+			{
+				"buffer_size": 138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Dropbox/cmdline/annagitsit/readme.md",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Dropbox/cmdline/annagitsit/app.js",
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/hyannatesting/styles.css",
+			"settings":
+			{
+				"buffer_size": 1916,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 103.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"server",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emmet wrap w",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"themes",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/welcome/Desktop/Projects/105-jQueryPlugin"
+	],
+	"file_history":
+	[
+		"/Users/welcome/Desktop/Projects/105-jQueryPlugin/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/scripts/main.js",
+		"/Users/welcome/Dropbox/cmdline/annagitsit/style.css",
+		"/Users/welcome/Dropbox/API Project/scripts.js",
+		"/Users/welcome/Dropbox/API Project 2/index.html",
+		"/Users/welcome/Dropbox/API Project 2/scripts.js",
+		"/Users/welcome/Dropbox/API Project 2/styles.css",
+		"/Users/welcome/Desktop/Sites/Whats Up Anna/aboutme.html",
+		"/Users/welcome/Dropbox/API Project/styles.css",
+		"/Users/welcome/Desktop/Sites/Whats Up Anna/main.css",
+		"/Users/welcome/Dropbox/API Project/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 5/Day 3/art-app-start/app.js",
+		"/Users/welcome/Desktop/API Project 2/styles.css",
+		"/Users/welcome/Desktop/API Project 2/index.html",
+		"/Users/welcome/Desktop/Sites/Whats Up Anna/index.html",
+		"/Users/welcome/Desktop/Projects/104-API(Week5)/smooth-scroll-master/dist/js/smooth-scroll.min.js",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/welcome/Desktop/Projects/104-API(Week5)/smooth-scroll-master/dist/js/smooth-scroll.js",
+		"/Users/welcome/Dropbox/API Project/smooth-scroll-master/docs/assets/css/custom.css",
+		"/Users/welcome/Dropbox/API Project/smooth-scroll-master/.travis.yml",
+		"/Users/welcome/Dropbox/API Project/smooth-scroll-master/src/docs/_templates/_footer.html",
+		"/Users/welcome/Desktop/Projects/100-OnePage(Week1)/main.css",
+		"/Users/welcome/Desktop/Projects/104-API(Week5)/index.html",
+		"/Users/welcome/Desktop/Projects/104-API(Week5)/styles.css",
+		"/Users/welcome/Desktop/Projects/104-API(Week5)/scripts.js",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 2/arrays-ANSWER.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 2/definingfunctions.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 2/arrays.html",
+		"/Users/welcome/Desktop/Projects/100-OnePage(Week1)/index.html",
+		"/Users/welcome/Desktop/Projects/103-jQuery(Week4)/style.css",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 5/Day 2/17 - Hardware Access/webcam.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 5/Day 1/scope.html",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/console-log.sublime-snippet",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/vanilla-console.sublime-snippet",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/j.sublime-snippet",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/document-ready.sublime-snippet",
+		"/Users/welcome/Desktop/Projects/103-jQuery(Week4)/gallery-start/index.html",
+		"/Users/welcome/Desktop/Projects/103-jQuery(Week4)/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/variables-operators-functions.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/variables-operators.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/rps.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 4/scope.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 3/todo.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 3/contest.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/myfirstjavascript.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/ex4(loops).html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 2/Wes Sublime Text Tips.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/ex2.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 4/Day 1/javascriptControlflow.html",
+		"/Users/welcome/Desktop/Projects/102-Responsive(Week3)/index.html",
+		"/Users/welcome/Desktop/Sites/Whats Up Anna/post.html",
+		"/Users/welcome/Desktop/Projects/102-Responsive(Week3)/_mq.scss",
+		"/Users/welcome/Desktop/Projects/102-Responsive(Week3)/main.css",
+		"/Users/welcome/Desktop/Projects/102-Responsive(Week3)/_setup.scss",
+		"/Users/welcome/Desktop/Projects/102-Responsive(Week3)/main.scss",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 4/Slideoutnav.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 1/responsive-exercises/ex5.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 4/Day 4/polaroid.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/example website/prepros.cfg",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/testGrid/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/testGrid/styles/main.scss",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/example website/style.css.map",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/example website/style.css",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/example website/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/example website/_normalize.scss",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/example website/style.scss",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/inline-svg/inline-svg.html",
+		"/Users/welcome/Downloads/responsive3.html",
+		"/Users/welcome/Desktop/Projects/101-MultiPage(Week2)/main.css",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 1/responsive-exercises/ex1-ANSWER.html",
+		"/Users/welcome/Downloads/svg-tags.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 2/animatecss.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 2/keyframes.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/transitions.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/inline-svg/images/AMIfv956vJOPQeqf5tZ4mNS7Tt9G-k6iD7LFqmJw8oZZFxjwVMRE9iLbqnKEXycINH46nLoNjiJxOO8trsiw7KT_qrkeSW8CUyd94wySmBdS5Z03PLwR_R1e8qXSncEvRfNNE1HnWlvQ5qeXFZZSWvuGGUm6CgQbc0nSywYQbUs0-HfPfaoadGc.svg",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 3/inline-svg/images/icon-dog.svg",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 1/responsive-exercises/ex4.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 1/responsive-exercises/ex2.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 1/responsive-exercises/ex3.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 3/Day 1/responsive-exercises/ex1.html",
+		"/Users/welcome/Downloads/responsive1.html",
+		"/Users/welcome/Downloads/responsive2.html",
+		"/Users/welcome/Desktop/Projects/101-MultiPage(Week2)/aboutme.html",
+		"/Users/welcome/Desktop/Projects/101-MultiPage(Week2)/post.html",
+		"/Users/welcome/Desktop/Projects/101-MultiPage(Week2)/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 5/flexslider-example/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/embedding",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/welcome/Desktop/Projects/100-OnePage(Week1)/attempt at a dropdown nav",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 4/Cats/index.html",
+		"/Users/welcome/Desktop/Projects/Week 1 Project/main.css",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 3/form.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 3/inputs-exercise.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 3/Dropdown Nav Codalong/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 3/Dropdown Nav Codalong/style.css",
+		"/Users/welcome/Downloads/dropdown.html",
+		"/Users/welcome/Desktop/Projects/Week 2 Project/index.html",
+		"/Users/welcome/Desktop/Projects/Week 2 Project/main.css",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex6-challenge-3levels.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex5-submenu-unhide.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex4-dropdown.html",
+		"/Users/welcome/Downloads/simple-nav.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex3-centered-nav.html",
+		"/Users/welcome/Desktop/Projects/Week 1 Project/index.html",
+		"/Users/welcome/Desktop/Projects/Week 2 Project/post.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex4-dropdown-ANSWER.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex2-easynav.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/list-exercises/lists-ex1-simplenav.html",
+		"/Users/welcome/Downloads/centered-nav.html",
+		"/Users/welcome/Downloads/list-style.html",
+		"/Users/welcome/Downloads/nested-lists.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/Modal/modal.html",
+		"/Users/welcome/Desktop/index.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 2/Modal/style.css",
+		"/Users/welcome/Desktop/Projects/Week 2 Project/modal.html",
+		"/Users/welcome/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/semanticelements/index.html",
+		"/Users/welcome/Downloads/semanticelements.zip",
+		"/Users/welcome/Downloads/z-index.html",
+		"/Users/welcome/Downloads/position-fixed.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/position2.html",
+		"/Users/welcome/Downloads/position.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/position-absolute.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/position-relative.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/positioning-and-floats/ex5-floats.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/positioning-and-floats/ex6-floats2.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/positioning-and-floats/ex7-zindex.html",
+		"/Users/welcome/Desktop/Bootcamp/Classes/Week 2/Day 1/positioning-and-floats/ex4-position-relative-border.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"addClass('resultsBox')",
+			" \n",
+			"data-full",
+			"overlay",
+			"anchors",
+			"param1",
+			"small",
+			"50",
+			"grey",
+			".innerWrapper{\n		// 	padding-left:15px;\n		// 	padding-right:15px;\n		// }",
+			"200px",
+			"85px",
+			"background:",
+			";\n",
+			"20px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"background-color:",
+			"background-colour:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/hyannatesting/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_name": "git config --global user.name \"whatsupanna\"",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/welcome/Desktop/Bootcamp/w2015collab/students/anna.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Anna-Github-Website/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								917,
+								917
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/scripts/jquery.lightBox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jquery.lightBox.js",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "main.js",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/welcome/Desktop/Projects/104-API(Week5)/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 589.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "jquery.editableInputs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/bleh.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"auto_name": "bleh.html",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/Haris Fishbowl/bleh3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/welcome/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2208,
+								2208
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1497,
+								1314
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter/scripts/jquery.colourMe.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/Users/welcome/Dropbox/cmdline/annagitsit/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/Users/welcome/Dropbox/cmdline/annagitsit/readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/Users/welcome/Dropbox/cmdline/annagitsit/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/hyannatesting/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1916,
+								1916
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark.tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "105-jQueryPlugin",
+  "version": "1.0.0",
+  "description": "jQuery plugin",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whatsupanna/105-plugin-BadassEditableInputs.git"
+  },
+  "author": "anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatsupanna/105-plugin-BadassEditableInputs/issues"
+  },
+  "homepage": "https://github.com/whatsupanna/105-plugin-BadassEditableInputs",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3"
+  }
+}

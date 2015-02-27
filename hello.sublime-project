@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/welcome/Desktop/Bootcamp/w2015collab"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/colourMe-starter"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/welcome/Desktop/Bootcamp/Classes/Week 6/Day 2/lightbox-starter"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

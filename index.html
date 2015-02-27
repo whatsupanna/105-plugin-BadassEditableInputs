@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>jQuery Plugin Editable Text</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link href='http://fonts.googleapis.com/css?family=Montserrat|Raleway:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<div class="wrapper">
+
+	<h1>Subtle Inputs</h1>
+	<h2>Click to make an input</h2>
+	<div class="bigHolder">
+		<div id="holder">
+			<p>Here are some things that you will be able to <span  class="edit" data-inline"true">edit</span></p>
+		</div>
+
+		<div id="holder">
+			<h4>First Name</h4>
+			<span class="edit">Edit me</span>
+		</div>
+
+		<div id="holder">
+			<h4>Last Name</h4>
+			<span class="edit" data-thing="dblclick">Edit here too</span>
+		</div>
+
+		<div id="holder">
+			<h4>Email</h4>
+			<span class="edit">Add your email here</span>
+		</div>
+
+		<h4>Address</h4>
+		<p class="edit">Or you can change this whole section</p>
+	</div>
+	<!-- end of big holder -->
+
+	<h2>Really lazy people can just think about inputing things and mouse over</h2>
+	<div class="bigHolder2">
+		<div id="holder">
+			<p>Here are some things that you will be able to <span class="edit" data-thing="mouseover"data-inline"true">edit</span></p>
+		</div>
+
+		<div id="holder">
+			<h4>First Name</h4>
+			<span class="edit" data-thing="mouseover">Edit me</span>
+		</div>
+
+		<div id="holder">
+			<h4>Last Name</h4>
+			<span class="edit" data-thing="mouseover">Edit here too</span>
+		</div>
+
+		<div id="holder">
+			<h4>Email</h4>
+			<span class="edit" data-thing="mouseover">Add your email here</span>
+		</div>
+
+		<h4>Address</h4>
+		<p class="edit" data-thing="mouseover">Or you can change this whole section</p>
+	</div>
+	<!-- end of bigHolder2 -->
+
+</div> 
+<!-- end of wrapper -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="jquery.editableInputs.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>
