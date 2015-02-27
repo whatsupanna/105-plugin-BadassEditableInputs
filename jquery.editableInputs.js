@@ -17,12 +17,15 @@ $.fn.editInputs = function() {
 
 	function setHandler(singleElement) {
 		var type = singleElement.data('thing') || 'click';
-		var update = singleElement.on(type ,function(e){
+		var update = singleElement.one(type ,function(e){
+
 			e.preventDefault();
 			//Save the element we clicked on
 			element = $(this);
 			element.height( element.height() );
 			element.css('display','block')
+
+
 			//Getting the clicked elements left and top offset
 			//So we can position our form right where it was
 			//So it looks like we are editing inline with the text
@@ -76,13 +79,14 @@ $.fn.editInputs = function() {
 		console.log("do I work too");
 		console.log(value);
 		console.log(element);
-		//Add the vale back to the element we are editing
+		//Add the value back to the element we are editing
 		element.html(value);
 		//Clear the form
 		$('.text').eq(0).val("");
 		//Hide the
 		$('.editable-form').hide();
-	
+		
+		setHandler($('.edit'));
 	
 		// its only ever doing the first value 
 	});

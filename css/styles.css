@@ -139,16 +139,16 @@ body {
     margin: 0 auto;
     padding: 10px; }
     body .wrapper .bigHolder {
-      padding: 100px;
-      background: #6BAFA0;
+      padding: 80px;
+      background: radial-gradient(ellipse at center, #6ab0a0 0%, #428c78 100%);
       border-radius: 10px;
-      width: 800px;
+      width: 700px;
       margin: 0 auto; }
     body .wrapper .bigHolder2 {
-      background: thistle;
+      background: radial-gradient(ellipse at center, #ffffff 0%, #f6f6f6 50%, #ededed 100%);
       border-radius: 10px;
-      padding: 100px;
-      width: 800px;
+      padding: 80px;
+      width: 700px;
       margin: 0 auto; }
 
 h1 {
@@ -181,6 +181,9 @@ input[type=text] {
   /*	border:1px solid #ccc;*/
   padding: 8px;
   outline: none; }
+
+.bigHolder2 input[type=text] {
+  background: #FCFCFC; }
 
 input[type=text]:focus {
   /*border:1px solid red;*/ }
