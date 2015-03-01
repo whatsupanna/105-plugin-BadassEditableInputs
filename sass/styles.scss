@@ -37,7 +37,7 @@ body{
 		margin:0 auto;
 		padding:10px;
 		.subtle{
-			padding:20px 80px;
+			padding:40px 80px;
 			// background: rgba(106,176,160,1);
 			background: thistle;
 			border-radius: 5px;
@@ -49,18 +49,18 @@ body{
 				background: url(../images/newspaper.svg) no-repeat;
 				width: 209px; 
 				height: 400px;
-				top: 200px;
+				top: 400px;
 				right: -70px;
 				display: block;
 				position: absolute;
 				opacity: 0.2;
-				transform: scale(2);
+				transform: scale(3);
 		}
 		}
 		.murderedOut{
 			background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 50%, rgba(237,237,237,1) 100%);
 			border-radius: 5px;
-			padding:30px 80px;
+			padding:40px 80px;
 			width:700px;
 			margin:0 auto;
 			position: relative;
@@ -69,12 +69,12 @@ body{
 				background: url(../images/newsletter.svg) no-repeat;
 				width: 209px; 
 				height: 350px;
-				top: 200px;
+				top: 350px;
 				right: -75px;
 				display: block;
 				position: absolute;
 				opacity: 0.2;
-				transform: scale(2);
+				transform: scale(3);
 		}
 		}
 	}
@@ -84,13 +84,25 @@ body{
 h1{
 	color:black;
 	text-align: center;
+	padding:0;
+	margin:0;
+	padding-top:100px;
 }
 h2{
 	text-align: center;
 	font-size: 18px;
+	margin:0;
+	a{
+		text-decoration: none;
+		color:grey;
+	}
+}
+h3{
+	padding-top:50px;
 }
 h4{
 	padding:0;
+	color:black;
 }
 
 .edit{
@@ -105,11 +117,12 @@ form{
 	padding:0;
 }
 
-/*form:focus{
-	outline: 0;
-}*/
 .text{
 	display: inline;
+}
+.highLight{
+	color:black;
+	font-weight: 700;
 }
 
 // Modal Styles -----------------------
@@ -140,4 +153,34 @@ form{
     border:1px solid gray;  
     background: #246493;  
     color:black;  
-} 
+}
+pre{
+	font-size: 14px;
+}
+.nav{
+	background: thistle;
+	position: fixed;
+	width:100%;
+	top:0;
+	left:0;
+	padding:10px;
+	ul{
+		list-style: none;
+		margin:0;
+		padding:0;
+		li{
+			float:left;
+			padding:5px;
+			margin:5px;
+		}
+	}
+	a{
+		text-decoration: none;
+		color:grey;
+		transition:all 1s;
+		font-weight: 700;
+	}
+	a:hover{
+		color:black;
+	}
+}

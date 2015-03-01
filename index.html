@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Subtle Inputs Demo Page</title>
+	<link rel="stylesheet" href="prism/prism.css">
 	<link rel="stylesheet" href="css/styles.css">
 	<link href='http://fonts.googleapis.com/css?family=Montserrat|Raleway:400,300,700' rel='stylesheet' type='text/css'>
 </head>
@@ -11,8 +12,16 @@
 
 
 <div class="wrapper">
-	<p><a class='activate_modal' name='first_window' href='#'>Click Sign Up Option</a></p>  
-	<p><a class='activate_modal' name='second_window' href='#'>Hover Sign up Option</a></p>  
+	<nav class="nav">
+		<ul>
+			<li>
+				<a class='activate_modal' name='first_window' href='#'>Click Sign Up Option</a>
+			</li>
+			<li>
+				<a class='activate_modal' name='second_window' href='#'>Hover Sign up Option</a>
+			</li>
+		</ul>
+	</nav>
 	  
 	<div id='mask' class='close_modal'></div>  
 	  
@@ -48,41 +57,79 @@
 
 	</div> 
 
-	<h1>Subtle Inputs</h1>
-	<h2>Click to make an input</h2>
-<!-- 	<div class="subtle">
-		<div id="holder">
-			<h4>First Name</h4>
-			<span class="edit">Edit me</span>
-		</div>
+	<h1>Badass Editable Inputs</h1>
 
-		<div id="holder">
-			<h4>Last Name</h4>
-			<span class="edit" data-thing="dblclick">Edit here too</span>
-		</div>
+	<h2>An inputs plugin for jQuery - <a class='activate_modal' name='first_window' href="#">[VIEW DEMO]</a>
+	</h2>
 
-	</div> -->
-	<!-- end of big holder -->
+	<h3>How It Works:</h3>
 
-	<h2>Really lazy people can just think about inputing things and mouse over</h2>
-<!-- 	<div class="murderedOut">
-		<div id="holder">
-			<h4>First Name</h4>
-			<span class="edit" data-thing="mouseenter">Edit me</span>
-		</div>
+	<p>Are you looking for a really cool way to get people to sign up for your newsletter? You've come to the right place. <span class="highLight">Badass Editable Inputs</span> is a jQuery plugin that lets you add a super cool modal and input form without making it look like an input form. Check out the two demos above by hovering on the nav bar.</p>
 
-		<div id="holder">
-			<h4>Last Name</h4>
-			<span class="edit" data-thing="mouseenter">Edit here too</span>
-		</div>
-	</div> -->
-	<!-- end of bigHolder2 -->
+	<h3>Getting started:</h3>
+
+	<p>Start by downloading and copying the .js and .css files to your directory.</p>
+
+	<p>If you haven't already, link to jQuery from your HTML document. After that, link to the location of main.js in your directory as well as the jquery.editableInputs.js file.</p>
+
+<pre class="language-markup">
+<code class="language-markup">
+	&lt;script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'>&lt;/script>
+	&lt;script src='main.js'>&lt;/script>
+	&lt;script src='jquery.editableInputs.js'>&lt;/script>
+</code>
+</pre>
+
+
+	<p>If you would like to use the styles in the plugin for the modal or the form, download the css file 
+	<span class="highLight">customstyles.css</span> and load it into your html file. </p>
+
+	<p>For the subtle css styles, leave the name of subtle. For the light grey <span class="highLight">murderedOut</span> styles, change the class name of subtle to <span class="highLight">murderedOut</span>.</p>
+
+	<p>Next, copy the following into your HTML document, directly below the opening <span class="highLight"><body></span> tag. Make sure to replace the contents of the div `subtle` with the sign up form information of your choice. If you would like to use a different form than the one that comes with this plugin, simply replace the content of the <span class="highLight">subtle</span> div.</p>
+
+<pre class="language-markup">
+<code class="language-markup">
+		 &lt;p>
+		    &lt;a class='activate_modal' name='first_window' href='#'>Subtle Inputs Form Example&lt;/a>
+		&lt;/p>
+
+		&lt;div id='first_window' class='modal_window'>
+		    &lt;div class="subtle">
+		    &lt;div id="holder">
+		        &lt;h4>First Name&lt;/h4>
+		        &lt;span class="edit" data-thing="mouseover">Edit me&lt;/span>
+		    &lt;/div>
+
+		    &lt;div id="holder">
+		        &lt;h4>Last Name&lt;/h4>
+		        &lt;span class="edit" data-thing="dblclick">Edit here too&lt;/span>
+		    &lt;/div>
+		&lt;/div>
+
+		&lt;div id='mask' class='close_modal'>&lt;/div> 
+</code>
+</pre>
+
+
+<p>For the form options, the input can appear based on <span class="highLight">subtle</span> , <span class="highLight">murderedOut</span> or <span class="highLight">dblclick</span>. To change this option change the information in the <span class="highLight">data-thing</span> attribute. </p>
+
+
+<p>That's all! Enjoy your new Badass editable input form. Tell all your friends.</p>
+
+<p>View it on github:</p>
+
+<p>If you would like to improve on this plugin, feel free to fork it.</p>
+
+
+
 </div> 
-<!-- end of wrapper -->
+<!-- <!end of wrapper -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.editableInputs.js"></script>
 <script src="modal.js"></script>
+<script src="prism/prism.js"></script>
 <script src="main.js"></script>
 
 </body>
