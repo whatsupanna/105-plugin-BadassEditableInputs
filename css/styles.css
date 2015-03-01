@@ -131,6 +131,23 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+/*Form styles so that they are less ghetto*/
+input[type=text] {
+  background-color: #fcfffe;
+  border: none;
+  /*	border:1px solid #ccc;*/
+  padding: 5px;
+  outline: none; }
+
+input[type=text]:focus {
+  /*border:1px solid red;*/ }
+
+input[type=text]:active {
+  border: 1x solid red; }
+
+input[type=submit] {
+  display: none; }
+
 body {
   font-size: 20px;
   font-family: 'Raleway', sans-serif; }
@@ -138,18 +155,56 @@ body {
     width: 1000px;
     margin: 0 auto;
     padding: 10px; }
-    body .wrapper .bigHolder {
-      padding: 80px;
-      background: radial-gradient(ellipse at center, #6ab0a0 0%, #428c78 100%);
-      border-radius: 10px;
-      width: 700px;
-      margin: 0 auto; }
-    body .wrapper .bigHolder2 {
-      background: radial-gradient(ellipse at center, #ffffff 0%, #f6f6f6 50%, #ededed 100%);
-      border-radius: 10px;
-      padding: 80px;
-      width: 700px;
-      margin: 0 auto; }
+  body .aqua {
+    padding: 50px 80px;
+    background: radial-gradient(ellipse at center, #6ab0a0 0%, #428c78 100%);
+    border-radius: 10px;
+    width: 700px;
+    margin: 0 auto; }
+    body .aqua span {
+      color: white; }
+  body .murderedOut {
+    background: radial-gradient(ellipse at center, #ffffff 0%, #f6f6f6 50%, #ededed 100%);
+    border-radius: 10px;
+    padding: 20px 30px;
+    width: 700px;
+    margin: 0 auto;
+    position: relative; }
+    body .murderedOut:after {
+      content: "";
+      background: url(../images/newspaper.svg) no-repeat;
+      width: 209px;
+      height: 300px;
+      top: 187px;
+      right: -70px;
+      display: block;
+      position: absolute;
+      opacity: 0.2;
+      transform: scale(2); }
+  body .subtle {
+    background: thistle;
+    border-radius: 10px;
+    padding: 20px 50px;
+    width: 700px;
+    margin: 0 auto;
+    top: 0px;
+    position: relative; }
+    body .subtle:after {
+      content: "";
+      background: url(../images/newsletter.svg) no-repeat;
+      width: 209px;
+      height: 300px;
+      top: 150px;
+      right: -75px;
+      display: block;
+      position: absolute;
+      opacity: 0.2;
+      transform: scale(2); }
+
+.newspaper {
+  position: absolute;
+  left: 500px;
+  top: 5px; }
 
 h1 {
   color: black;
@@ -163,33 +218,40 @@ h2 {
   font-weight: 300;
   color: grey; }
 
+h3.headline {
+  color: black; }
+
+h4 {
+  text-transform: uppercase; }
+
 form {
   margin: 0;
   padding: 0; }
 
-/*form:focus{
-	outline: 0;
-}*/
+span {
+  color: red; }
+
 .text {
-  display: inline; }
+  display: inline-block; }
 
-/*Form styles so that they are less ghetto*/
-input[type=text] {
-  background-color: #fcfffe;
-  background: linear-gradient(to bottom, #fcfffe 0%, #c7e0da 100%);
-  border: none;
-  /*	border:1px solid #ccc;*/
-  padding: 8px;
-  outline: none; }
+#mask {
+  position: absolute;
+  /* important */
+  top: 0px;
+  /* start from top */
+  left: 0px;
+  /* start from left */
+  height: 100%;
+  /* cover the whole page */
+  width: 100%;
+  /* cover the whole page */
+  display: none;
+  /* don't show it '*/
+  /* styling bellow */
+  background-color: black; }
 
-.bigHolder2 input[type=text] {
-  background: #FCFCFC; }
-
-input[type=text]:focus {
-  /*border:1px solid red;*/ }
-
-input[type=text]:active {
-  border: 1x solid red; }
-
-input[type=submit] {
-  display: none; }
+#modal_window {
+  padding: 50px;
+  border: 1px solid gray;
+  background: #246493;
+  color: black; }

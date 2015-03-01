@@ -6,7 +6,28 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 
-
+/*Form styles so that they are less ghetto*/
+input[type=text]{
+	background-color: rgba(252,255,254,1);
+	// background: linear-gradient(to bottom, rgba(252,255,254,1) 0%, rgba(199,224,218,1) 100%);
+	border:none;
+/*	border:1px solid #ccc;*/
+	padding:5px;
+	outline: none;
+}
+// .murderedOut input[type=text] {
+// 	background:#FCFCFC;
+// }
+input[type=text]:focus{
+	/*border:1px solid red;*/
+}
+input[type=text]:active{
+	border:1x solid red;
+}
+input[type=submit]{
+	display: none;
+}
+ 
 body{
 	font-size: 20px;
 	font-family: 'Raleway', sans-serif;
@@ -14,25 +35,74 @@ body{
 		width:1000px;
 		margin:0 auto;
 		padding:10px;
-		.bigHolder{
-			padding:80px;
-			// background: rgba(106,176,160,1);
-			background: radial-gradient(ellipse at center, rgba(106,176,160,1) 0%, rgba(66,140,120,1) 100%);
-		
-			border-radius: 10px;
-			width:700px;
-			margin:0 auto;
+	}
+	.aqua{
+		padding:50px 80px;
+		// background: rgba(106,176,160,1);
+		background: radial-gradient(ellipse at center, rgba(106,176,160,1) 0%, rgba(66,140,120,1) 100%);
+	
+		border-radius: 10px;
+		width:700px;
+		margin:0 auto;
+		span{
+			color:white;
 		}
-		.bigHolder2{
-			background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 50%, rgba(237,237,237,1) 100%);
-			border-radius: 10px;
-			padding:80px;
-			width:700px;
-			margin:0 auto;
+	}
+	.murderedOut{
+		background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 50%, rgba(237,237,237,1) 100%);
+		border-radius: 10px;
+		padding:20px 30px;
+		width:700px;
+		margin:0 auto;
+		position:relative;
+		// background: rgba(237,237,237,1) url(../images/newspaper2.svg) no-repeat;
+		// background-position: top right;
+		
+		&:after {
+			content: "";
+			background: url(../images/newspaper.svg) no-repeat;
+			width: 209px; 
+			height: 300px;
+			top: 187px;
+			right: -70px;
+			display: block;
+			position: absolute;
+			opacity: 0.2;
+			transform: scale(2);
+		}
+
+	}
+	.subtle{
+		background: thistle;
+		border-radius: 10px;
+		padding:20px 50px;
+		width:700px;
+		margin:0 auto;
+		top:0px;
+		position: relative;
+		&:after {
+			content: "";
+			background: url(../images/newsletter.svg) no-repeat;
+			width: 209px; 
+			height: 300px;
+			top: 150px;
+			right: -75px;
+			display: block;
+			position: absolute;
+			opacity: 0.2;
+			transform: scale(2);
 		}
 	}
 }
-
+// .murderedOut input{
+// 	background:#FCFCFC;
+// 	background-image: none;
+// }
+.newspaper{
+	position: absolute;
+	left:500px;
+	top:5px;
+}
 
 h1{
 	color:black;
@@ -47,6 +117,12 @@ h2{
 	font-weight: 300;
 	color: grey;
 }
+h3.headline{
+	color:black;
+}
+h4{
+	text-transform: uppercase;
+}
 .submit{
 	// background: white;
 }
@@ -54,31 +130,27 @@ form{
 	margin:0;
 	padding:0;
 }
-
-/*form:focus{
-	outline: 0;
-}*/
+span{
+	color:red;
+}
 .text{
-	display: inline;
+	display: inline-block;
 }
-/*Form styles so that they are less ghetto*/
-input[type=text]{
-	background-color: rgba(252,255,254,1);
-	background: linear-gradient(to bottom, rgba(252,255,254,1) 0%, rgba(199,224,218,1) 100%);
-	border:none;
-/*	border:1px solid #ccc;*/
-	padding:8px;
-	outline: none;
+// Model Window ---------------------------------
+ #mask{  
+   position:absolute; /* important */  
+   top:0px; /* start from top */  
+   left:0px; /* start from left */  
+   height:100%; /* cover the whole page */  
+   width:100%;  /* cover the whole page */  
+   display:none; /* don't show it '*/  
+  
+   /* styling bellow */  
+   background-color: black;  
 }
-.bigHolder2 input[type=text]{
-	background:#FCFCFC;
-}
-input[type=text]:focus{
-	/*border:1px solid red;*/
-}
-input[type=text]:active{
-	border:1x solid red;
-}
-input[type=submit]{
-	display: none;
-}
+#modal_window{  
+    padding:50px;  
+    border:1px solid gray;  
+    background: #246493;  
+    color:black;  
+}  
