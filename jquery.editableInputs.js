@@ -93,11 +93,3 @@ $.fn.editInputs = function() {
 
 
 }
-
-
-
-
-
-
-// var addInput = $(this).append('<input type="text">').append('<input type="submit">');
-		// $('input').addClass('submit');

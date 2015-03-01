@@ -131,6 +131,27 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+/*Form styles so that they are less ghetto*/
+input[type=text] {
+  background-color: #fcfffe;
+  border: none;
+  /*	border:1px solid #ccc;*/
+  padding: 8px;
+  outline: none;
+  margin: 0; }
+
+.bigHolder2 input[type=text] {
+  background: #FCFCFC; }
+
+input[type=text]:focus {
+  /*border:1px solid red;*/ }
+
+input[type=text]:active {
+  border: 1x solid red; }
+
+input[type=submit] {
+  display: none; }
+
 body {
   font-size: 20px;
   font-family: 'Raleway', sans-serif; }
@@ -138,18 +159,42 @@ body {
     width: 1000px;
     margin: 0 auto;
     padding: 10px; }
-    body .wrapper .bigHolder {
-      padding: 80px;
-      background: radial-gradient(ellipse at center, #6ab0a0 0%, #428c78 100%);
-      border-radius: 10px;
+    body .wrapper .subtle {
+      padding: 20px 80px;
+      background: thistle;
+      border-radius: 5px;
       width: 700px;
-      margin: 0 auto; }
-    body .wrapper .bigHolder2 {
+      margin: 0 auto;
+      position: relative; }
+      body .wrapper .subtle:after {
+        content: "";
+        background: url(../images/newspaper.svg) no-repeat;
+        width: 209px;
+        height: 400px;
+        top: 200px;
+        right: -70px;
+        display: block;
+        position: absolute;
+        opacity: 0.2;
+        transform: scale(2); }
+    body .wrapper .murderedOut {
       background: radial-gradient(ellipse at center, #ffffff 0%, #f6f6f6 50%, #ededed 100%);
-      border-radius: 10px;
-      padding: 80px;
+      border-radius: 5px;
+      padding: 30px 80px;
       width: 700px;
-      margin: 0 auto; }
+      margin: 0 auto;
+      position: relative; }
+      body .wrapper .murderedOut:after {
+        content: "";
+        background: url(../images/newsletter.svg) no-repeat;
+        width: 209px;
+        height: 350px;
+        top: 200px;
+        right: -75px;
+        display: block;
+        position: absolute;
+        opacity: 0.2;
+        transform: scale(2); }
 
 h1 {
   color: black;
@@ -158,6 +203,9 @@ h1 {
 h2 {
   text-align: center;
   font-size: 18px; }
+
+h4 {
+  padding: 0; }
 
 .edit {
   font-weight: 300;
@@ -173,23 +221,33 @@ form {
 .text {
   display: inline; }
 
-/*Form styles so that they are less ghetto*/
-input[type=text] {
-  background-color: #fcfffe;
-  background: linear-gradient(to bottom, #fcfffe 0%, #c7e0da 100%);
-  border: none;
-  /*	border:1px solid #ccc;*/
-  padding: 8px;
-  outline: none; }
+#mask {
+  position: absolute;
+  /* important */
+  top: 0px;
+  /* start from top */
+  left: 0px;
+  /* start from left */
+  height: 100%;
+  /* cover the whole page */
+  width: 100%;
+  /* cover the whole page */
+  display: none;
+  /* don't show it '*/
+  /* styling bellow */
+  background-color: black; }
 
-.bigHolder2 input[type=text] {
-  background: #FCFCFC; }
+.modal_window {
+  position: absolute;
+  /* important so we can position it on center later */
+  display: none;
+  /* don't show it */
+  /* styling bellow */
+  color: white; }
 
-input[type=text]:focus {
-  /*border:1px solid red;*/ }
-
-input[type=text]:active {
-  border: 1x solid red; }
-
-input[type=submit] {
-  display: none; }
+/* style a specific modal window  */
+#modal_window {
+  padding: 50px;
+  border: 1px solid gray;
+  background: #246493;
+  color: black; }
